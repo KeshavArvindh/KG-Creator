@@ -139,5 +139,20 @@ Error encountered: SyntaxError: ...
 Sending error to Gemini API for debugging...
 Updated query received: MATCH (u:User {userId: 1}) CREATE (m:Movie {movieId: 101})-[:TAGGED]->(u)
 Executed successfully: MATCH (u:User {userId: 1}) CREATE (m:Movie {movieId: 101})-[:TAGGED]->(u)
+```
 
+## Contributing
 
+Contributions to this project are welcome! Feel free to fork the repository, create feature branches, and submit pull requests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or support, please contact:
+
+**Name:** Keshav Arvindh  
+**Email:** akeshav0601@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/akeshav0601/
